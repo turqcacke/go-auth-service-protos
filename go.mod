@@ -1,4 +1,4 @@
-module protos
+module github.com/turqcacke/go-auth-service-proto
 
 go 1.22.3
 
